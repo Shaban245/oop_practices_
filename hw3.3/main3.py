@@ -43,4 +43,4 @@ class Robot:
         self.__model = new_model
 
     def __str__(self):
-        print(f"состояние заряда батареи : {self.__battery_charge}")
+        print(f"состояние  заряда батареи : {self.__battery_charge}")

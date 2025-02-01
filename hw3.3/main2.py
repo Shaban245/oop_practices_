@@ -59,6 +59,6 @@ class Employee:
         for i in self.__completed_projects:
             print(i)
 
-bebra = Employee("bebra", "пахан", "отдел продаж", 50000, 3)
+bebra = Employee("саид", "тупой", "теща", 10, 0)
 
 bebra.__str__()
