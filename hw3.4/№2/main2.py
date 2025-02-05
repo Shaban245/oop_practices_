@@ -128,7 +128,7 @@ class Employee:
     def add_contact_info(self,contact_info):
         self.__contact_info.append(contact_info)
 
-    def remove_contact_info(self, contact_info):
+    def remove_contact_info(self, contact_info): 
         self.__contact_info.remove(contact_info)
 
     def __str__(self):
